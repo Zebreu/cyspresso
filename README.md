@@ -6,7 +6,7 @@ BioArxiv link pending:
 
 ## Getting started
 
-The current notebook can be opened through Colab at https://githubtocolab.com/Zebreu/cyspresso/blob/main/criticaldifference.ipynb where you can explore both the dataset and the methodology we used for this study. You can upload knottins.csv and any embeddings you have to the colab workspace to run the notebook.
+The current notebook can be opened through Colab at https://githubtocolab.com/Zebreu/cyspresso/blob/main/criticaldifference.ipynb where you can explore both the dataset and the methodology we used for this study. You can upload knottin.csv provided in this repo and any embeddings you generated to the colab workspace to run the notebook.
 
 ## Embedding generation
 
@@ -38,5 +38,6 @@ run(
 )
 ```
 ### OpenFold
-It is also possible is to use OpenFold with our modified notebook at https://githubtocolab.com/Zebreu/cyspresso/blob/main/openfoldrepresentations.ipynb
-Cells after the prediction cell show where to find the embeddings, e.g. `all_results['results']['single']`
+It is also possible is to use OpenFold with our modified notebook at https://githubtocolab.com/Zebreu/cyspresso/blob/main/openfoldrepresentations.ipynb.
+Cells after the prediction cell show where to find the embeddings, e.g. `all_results['results']['single']`.
+OpenFold might generate predictions more slowly than ColabFold.
