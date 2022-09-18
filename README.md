@@ -44,4 +44,4 @@ Cells after the prediction cell show where to find the embeddings, e.g. `all_res
 OpenFold might generate predictions more slowly than ColabFold.
 
 ### References
-The cysteine-dense peptide database was modified from [Correnti *et al.* Nat Struct Mol Biol. 2018](https://rdcu.be/cVOc2)
+The cysteine-dense peptide database was modified from [Correnti, CE *et al.* Nat Struct Mol Biol. 2018](https://rdcu.be/cVOc2).
