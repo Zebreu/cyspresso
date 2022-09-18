@@ -42,3 +42,6 @@ run(
 It is also possible is to use OpenFold with our modified notebook at https://githubtocolab.com/Zebreu/cyspresso/blob/main/openfoldrepresentations.ipynb.
 Cells after the prediction cell show where to find the embeddings, e.g. `all_results['results']['single']`.
 OpenFold might generate predictions more slowly than ColabFold.
+
+### References
+The cysteine-dense peptide database was modified from [Correnti *et al.* Nat Struct Mol Biol. 2018](https://rdcu.be/cVOc2)
