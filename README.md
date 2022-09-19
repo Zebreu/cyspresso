@@ -3,7 +3,7 @@ A machine learning approach to predict the recombinant expressibility of cystein
 
 ## Associated paper
 
-BioArxiv link pending: 
+BioArxiv link pending: https://www.biorxiv.org/content/10.1101/2022.09.17.508377v1
 
 ## Getting started
 
