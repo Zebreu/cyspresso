@@ -3,7 +3,7 @@ A machine learning approach to predict the recombinant expressibility of cystein
 
 ## Associated paper
 
-BioArxiv link: https://www.biorxiv.org/content/10.1101/2022.09.17.508377v1
+CysPresso: Prediction of cysteine-dense peptide expression in mammalian cells using deep learning protein representations. BioRxiv link: https://www.biorxiv.org/content/10.1101/2022.09.17.508377v1
 
 ## Getting started
 
