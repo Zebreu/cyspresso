@@ -5,6 +5,8 @@ A machine learning approach to predict the recombinant expressibility of cystein
 
 CysPresso: Prediction of cysteine-dense peptide expression in mammalian cells using deep learning protein representations. BioRxiv link: https://www.biorxiv.org/content/10.1101/2022.09.17.508377v1
 
+The raw data (protein representations) used in this work can be obtained here: https://huggingface.co/datasets/TonyKYLim/CysPresso/tree/main
+
 ## Getting started
 
 Our method's notebook can be opened through Colab at https://githubtocolab.com/Zebreu/cyspresso/blob/main/criticaldifference.ipynb where you can explore both the dataset and the methodology we used for this study. You can upload knottin.csv provided in this repo and any embeddings you generated to the colab workspace to run the notebook.
