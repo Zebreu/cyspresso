@@ -9,7 +9,7 @@ The raw data (protein representations) used in this work can be obtained here: h
 
 ## Getting started
 
-Our method's notebook can be opened through Colab at https://githubtocolab.com/Zebreu/cyspresso/blob/main/CysPresso_main.ipynb where you can explore both the dataset and the methodology we used for this study. You can upload CDPs.csv provided in this repo and any embeddings you generated to the colab workspace to run the notebook. 
+Our method's notebook can be opened through Colab at https://githubtocolab.com/Zebreu/cyspresso/blob/main/CysPresso.ipynb where you can explore both the dataset and the methodology we used for this study. You can upload CDPs.csv provided in this repo and any embeddings you generated to the colab workspace to run the notebook. 
 
 ## Embedding generation
 
