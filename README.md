@@ -15,6 +15,10 @@ Our method's notebook can be opened through Colab at https://githubtocolab.com/Z
 
 ## Embedding generation
 
+### ESM
+
+[BringYourOwnSequences-CysPressoESM.ipynb](https://githubtocolab.com/Zebreu/cyspresso/blob/main/BringYourOwnSequences-CysPressoESM.ipynb) uses the ESM2 650M model for a quick, interactive demonstration. 
+
 ### Colabfold
 You can use https://github.com/sokrypton/ColabFold to generate embeddings saved as npy files in the colab workspace. In the "Run Prediction" code cell, use the following arguments:
 ```
