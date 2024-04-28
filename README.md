@@ -9,7 +9,7 @@ The raw data (protein representations) used in this work can be obtained here: h
 
 ## Getting started
 
-You can try out any sequence using the BringYourOwnSequences-CysPressoESM.ipynb notebook in a colab environment.
+You can try out any sequence using [BringYourOwnSequences-CysPressoESM.ipynb](https://githubtocolab.com/Zebreu/cyspresso/blob/main/BringYourOwnSequences-CysPressoESM.ipynb).
 
 Our method's notebook can be opened through Colab at https://githubtocolab.com/Zebreu/cyspresso/blob/main/CysPresso.ipynb where you can explore both the dataset and the methodology we used for this study. You can upload CDPs.csv provided in this repo and any embeddings you generated to the colab workspace to run the notebook. 
 
